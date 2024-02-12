@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-<img align="right" alt="Coding" width="400"  src="[https://i.gifer.com/origin/24/2439879c1805a9adceb43ebe5cf215e1_w200.gif](https://dailyscrawl.com/wp-content/uploads/2023/07/18a4949fc9c8067172d3b96e302e7097.gif)">
+<img align="right" alt="Coding" width="400"  src="https://dailyscrawl.com/wp-content/uploads/2023/07/18a4949fc9c8067172d3b96e302e7097.gif">
 
 <- 📫 How to reach me **mohammad.nail.zabe@gmail.com**
 
