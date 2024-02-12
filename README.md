@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-<img align="right" alt="Coding" width="400"  src="https://i.gifer.com/origin/24/2439879c1805a9adceb43ebe5cf215e1_w200.gif">
+<img align="right" alt="Coding" width="500"  src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/9f56d629403431.56bf41038c8b0.gif">
 
 <- 📫 How to reach me **mohammad.nail.zabe@gmail.com**
 
@@ -23,8 +23,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Zaben&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mohammad-Zaben&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <img align="right" alt="Coding" width="600"  src="https://res.cloudinary.com/practicaldev/image/fetch/s--O3hycoaa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif">
+
+---
+
+
+<img align="right" alt="Coding" width="500"  src="https://i.gifer.com/origin/24/2439879c1805a9adceb43ebe5cf215e1_w200.gif">
