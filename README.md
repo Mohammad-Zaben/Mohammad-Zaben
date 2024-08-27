@@ -33,6 +33,8 @@
   <img width="14" />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="38" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="38" alt="spring logo" />
+          
 </div>
 
 # 💫 Welcome to my GitHub repository! This project showcases my latest work in mobile app development, web development, It includes interactive user interface, database integration, Feel free to explore🔭 the code and contribute to its development. Any feedback or suggestions are highly appreciated!🤝💬"
