@@ -40,7 +40,7 @@
 # 💫 Welcome to my GitHub repository! This project showcases my latest work in mobile app development, web development, It includes interactive user interface, database integration, Feel free to explore🔭 the code and contribute to its development. Any feedback or suggestions are highly appreciated!🤝💬"
 <img align="right" alt="Coding" width="400"  src="https://dailyscrawl.com/wp-content/uploads/2023/07/18a4949fc9c8067172d3b96e302e7097.gif">
 
-<- 📫 How to reach me **mohammad.nail.zabe@gmail.com**
+<- 📫 How to reach me **mohammad.nail.zaben@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
