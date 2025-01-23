@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Zaben&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=Mohammad-Zaben&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohammad-Zaben&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <h1>Welcome to My GitHub Profile! 👋</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=F75C7E&width=435&lines=Full+Stack+Developer;Python+%7C+Django+%7C+Java+%7C+C%23;Mobile+App+Development+Enthusiast;Database+Integration+%7C+REST+APIs;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 ---
