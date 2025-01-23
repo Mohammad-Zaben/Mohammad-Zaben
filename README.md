@@ -4,8 +4,12 @@
 </div>
 
 ---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Zaben&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=Mohammad-Zaben&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohammad-Zaben&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
+</div>
 
-# 💫 Welcome to My GitHub Repository!
 
 Hi there! 👋 I'm **Mohammad Zaben**, a passionate developer with expertise in **mobile application development**, **web development**, **full-stack development**, and more! My projects include interactive user interfaces, robust database integrations, and efficient API solutions.  
 
@@ -35,7 +39,6 @@ Feel free to explore 🔭 my repositories and contribute to their development. Y
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="REST APIs" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Mobile Development" />
 
 </div>
