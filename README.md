@@ -40,7 +40,6 @@ Feel free to explore 🔭 my repositories and contribute to their development. Y
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://dailyscrawl.com/wp-content/uploads/2023/07/18a4949fc9c8067172d3b96e302e7097.gif">
 
 ## 📫 How to Reach Me:
 
